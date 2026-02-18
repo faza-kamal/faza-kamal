@@ -30,15 +30,12 @@ target = {
     "location" : "Batang, Jawa Tengah, Indonesia",
     "status"   : "SMP student | Self-taught since grade 4",
     "os"       : "Arch Linux btw 🐧",
-    "editor"   : "Acode + Termux (yes, on mobile 📱)",
     "passion"  : ["Cybersecurity", "OSINT", "Penetration Testing", "Backend Dev"],
     "goal"     : "Professional Cybersecurity Engineer",
-    "motto"    : "Redup di sini, menyala di sana 🔥"
 }
 ```
 
-> Belajar coding dari kelas 4 SD. Pindah ke Arch Linux di kelas 6.
-> Bikin tools cybersecurity dari kamar rumah sakit, pakai HP, tanpa laptop.
+> hoshino my istri😋
 > Karena passion gak butuh kondisi yang sempurna.
 
 ---
