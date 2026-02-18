@@ -50,6 +50,6 @@ skills = {
   
 💙 Thanks for visiting my profile! 💙
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/faza-kamal)
+[![GitHub followers](https://img.shields.io/github/followers/username=faza-kamal?label=Follow&style=social)](https://github.com/faza-kamal)
 
 </div>
