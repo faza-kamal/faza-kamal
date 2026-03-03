@@ -29,7 +29,7 @@ target = {
     "alias"    : "faza-kamal",
     "location" : "Batang, Jawa Tengah, Indonesia",
     "status"   : "SMP student | Self-taught since grade 4",
-    "os"       : "Arch Linux btw 🐧",
+    "os"       : "Arch Linux btw ",
     "passion"  : ["Cybersecurity", "OSINT", "Penetration Testing", "Backend Dev"],
     "goal"     : "Professional Cybersecurity Engineer",
 }
@@ -53,22 +53,10 @@ target = {
     </td>
     <td width="50%">
       <h3>🛡️ AegisScan</h3>
-      <p>Professional async network reconnaissance scanner. Adaptive RTT (RFC 6298), service fingerprinting, OS detection, SQLite DB, web dashboard. Dibuat di kamar RS 🏥</p>
+      <p>Professional async network reconnaissance scanner. Adaptive RTT (RFC 6298), service fingerprinting, OS detection, SQLite DB, web dashboard. </p>
       <a href="https://github.com/faza-kamal/aegisscan">
         <img src="https://img.shields.io/badge/View_Repo-AegisScan-blue?style=for-the-badge&logo=github"/>
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔍 KingSawit</h3>
-      <p>Advanced OSINT username intelligence tool. 100+ platform support, multi-threaded, proxy support, JSON/text export.</p>
-      <img src="https://img.shields.io/badge/Status-Private-orange?style=for-the-badge"/>
-    </td>
-    <td width="50%">
-      <h3>🕵️ Mulywowo</h3>
-      <p>Elite personal OSINT intelligence framework. Confidence engine, correlation engine, domain & IP intelligence. 2.400+ lines of code.</p>
-      <img src="https://img.shields.io/badge/Status-Private-orange?style=for-the-badge"/>
     </td>
   </tr>
 </table>
