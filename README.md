@@ -29,7 +29,7 @@ target = {
     "alias"    : "faza-kamal",
     "location" : "Batang, Jawa Tengah, Indonesia",
     "status"   : "SMP student | Self-taught since grade 4",
-    "os"       : "Arch Linux btw ",
+    "os"       : "i use arch btw😈",
     "passion"  : ["Cybersecurity", "OSINT", "Penetration Testing", "Backend Dev"],
     "goal"     : "Professional Cybersecurity Engineer",
 }
@@ -45,14 +45,14 @@ target = {
 <table>
   <tr>
     <td width="50%">
-      <h3>🕳️ AbyssForge</h3>
+      <h3>AbyssForge</h3>
       <p>Web vulnerability scanner full-stack. Async engine, 10 modul deteksi (SQLi, XSS, SSRF, XXE, SSTI, CSRF...), CVSS grading, web dashboard, PDF reports.</p>
       <a href="https://github.com/faza-kamal/AbyssForge">
         <img src="https://img.shields.io/badge/View_Repo-AbyssForge-blueviolet?style=for-the-badge&logo=github"/>
       </a>
     </td>
     <td width="50%">
-      <h3>🛡️ AegisScan</h3>
+      <h3>AegisScan</h3>
       <p>Professional async network reconnaissance scanner. Adaptive RTT (RFC 6298), service fingerprinting, OS detection, SQLite DB, web dashboard. </p>
       <a href="https://github.com/faza-kamal/aegisscan">
         <img src="https://img.shields.io/badge/View_Repo-AegisScan-blue?style=for-the-badge&logo=github"/>
