@@ -12,7 +12,7 @@
 ![Takanashi Hoshino](https://media.tenor.com/_ZwntmqkdWAAAAAj/%E3%83%9B%E3%82%B7%E3%83%8E-hoshino.gif)
 
 ### `> whoami`
-**Muhammad Faza Kamal** — SMP student, self-taught developer & cybersecurity enthusiast from Batang, Indonesia 🇮🇩
+**Muhammad Faza Kamal** — self-taught developer & cybersecurity enthusiast from Batang, Indonesia 🇮🇩
 
 [![GitHub followers](https://img.shields.io/github/followers/faza-kamal?label=Follow&style=social)](https://github.com/faza-kamal)
 [![Profile Views](https://komarev.com/ghpvc/?username=faza-kamal&color=blueviolet&style=flat)](https://github.com/faza-kamal)
@@ -28,8 +28,7 @@ target = {
     "name"     : "Muhammad Faza Kamal",
     "alias"    : "faza-kamal",
     "location" : "Batang, Jawa Tengah, Indonesia",
-    "status"   : "SMP student | Self-taught since grade 4",
-    "os"       : "i use arch btw😈",
+    "os"       : "i use arch btw",
     "passion"  : ["Cybersecurity", "OSINT", "Penetration Testing", "Backend Dev"],
     "goal"     : "Professional Cybersecurity Engineer",
 }
