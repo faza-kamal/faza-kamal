@@ -12,7 +12,7 @@
 ![Takanashi Hoshino](https://media.tenor.com/_ZwntmqkdWAAAAAj/%E3%83%9B%E3%82%B7%E3%83%8E-hoshino.gif)
 
 ### `> whoami`
-**Muhammad Faza Kamal** — self-taught developer & cybersecurity enthusiast from Batang, Indonesia 🇮🇩
+**Faza** — self-taught developer Indonesia 🇮🇩
 
 [![GitHub followers](https://img.shields.io/github/followers/faza-kamal?label=Follow&style=social)](https://github.com/faza-kamal)
 [![Profile Views](https://komarev.com/ghpvc/?username=faza-kamal&color=blueviolet&style=flat)](https://github.com/faza-kamal)
@@ -25,9 +25,9 @@
 
 ```python
 target = {
-    "name"     : "Muhammad Faza Kamal",
-    "alias"    : "faza-kamal",
-    "location" : "Batang, Jawa Tengah, Indonesia",
+    "name"     : "faza",
+    "alias"    : "faza",
+    "location" : "Indonesia",
     "os"       : "i use arch btw",
     "passion"  : ["Cybersecurity", "OSINT", "Penetration Testing", "Backend Dev"],
     "goal"     : "Professional Cybersecurity Engineer",
@@ -46,7 +46,7 @@ target = {
     <td width="50%">
       <h3>AbyssForge</h3>
       <p>Web vulnerability scanner full-stack. Async engine, 10 modul deteksi (SQLi, XSS, SSRF, XXE, SSTI, CSRF...), CVSS grading, web dashboard, PDF reports.</p>
-      <a href="https://github.com/faza-kamal/AbyssForge">
+      <a href="https://github.com/faza-kamak/AbyssForge">
         <img src="https://img.shields.io/badge/View_Repo-AbyssForge-blueviolet?style=for-the-badge&logo=github"/>
       </a>
     </td>
